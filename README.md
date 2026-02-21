@@ -1,6 +1,6 @@
 # SDLC of a Real-World System
 
-Analysis of an Online Food Delivery System (Swiggy Case Study)
+# Analysis of an Online Food Delivery System (Swiggy Case Study)
 This repository contains the academic assignment titled
 “Software Process Models and Requirements Engineering – Building an Online Food Delivery System Like Swiggy.”
 The project presents a comparative study of Software Development Life Cycle (SDLC) models applied to a real-world food delivery platform similar to Swiggy.
@@ -10,11 +10,17 @@ Repository Overview
 This repository includes the complete project documentation submitted as part of the B.Tech – Information Science and Engineering curriculum at NMAM Institute of Technology, Nitte.
 The project analyzes the suitability of,Waterfall Model,Incremental Development Model,Spiral Model for building a secure and scalable Banking and Online Transaction System.
 
+# Repository Overview
+This repository includes the complete project documentation submitted as part of the B.Tech – Information Science and Engineering curriculum. 
+
 # Repository Structure
 
 Assignment Report (Final Submission)
 Contains the complete and finalized version of the assignment including:
 Abstract,Problem Statement,Case Study Analysis,Comparative Study of SDLC Models,Functional & Non-Functional Requirements,Validation Strategy,Risk Analysis,Final Recommendation
+
+# Final Report:
+Contains the revised and finalized version of the project after incorporating improvements in requirement analysis, SDLC model comparison, and overall documentation quality. This version is intended for final evaluation and submission. (finalreport_nnm24is047.docx)
 
 # Files Included
 finalreport_nnm24is047.docx – Final assignment report 
@@ -33,5 +39,7 @@ For feedback or improvements, open an issue or submit a pull request. We appreci
 # Contact
 For any questions or clarifications,feel free to reach out:
 
-Author: Avani S. Rao(NNM24IS047) Mentor: Dr. Jason Elroy Martis Associate Professor Department of Information Science and Technology NMAM Institute of Technology, Nitte, Karnataka
-India Email: adooravani22@gmail.com  GitHub Profile: adooravani22
+Author: Avani S. Rao(NNM24IS047)
+Mentor: Dr. Jason Elroy Martis Associate Professor Department of Information Science and Technology NMAM Institute of Technology, Nitte, Karnataka
+India Email: adooravani22@gmail.com 
+GitHub Profile: adooravani22
