@@ -21,7 +21,6 @@ finalreport_nnm24is047.docx – Final assignment report
 
 intialreport_nnm24is047.docx – Intial assignment report 
 
-
 # Branching Strategy
 The main branch contains the stable version of the project report. This approach helps in understanding basic version control concepts such as branching, merging, and document versioning, even in a documentation-based project without source code.
 
